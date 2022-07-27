@@ -14,7 +14,8 @@
 }
 
 .predictive-search--search-template {
-  z-index: 2
+  z-index: 2;
+  width: 100%;
 }
 
 @media screen and (max-width: 749px) {
